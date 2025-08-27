@@ -1,5 +1,9 @@
 # Marketing campaign performance
 
+## Description
+
 The Marketing Campaign Performance Dataset provides valuable insights into the effectiveness of various marketing campaigns with 200000 rows and 16 columns.
 
-![WhatsApp Image 2025-08-27 at 19 47 08_6ea76dff](https://github.com/user-attachments/assets/6d4c8f7b-83eb-4d5c-9ba3-ed9a6135438c)
+[Project Idea & Importance](https://docs.google.com/spreadsheets/d/179KItRuAbX22t2GgREQksyBx6KgFENFf/edit?usp=sharing&ouid=111248352616924302660&rtpof=true&sd=true)
+
+[Team Tasks](https://docs.google.com/spreadsheets/d/1tJaRffK-iIyhDScU9kWMxuMtJIrtnvbf/edit?usp=sharing&ouid=111248352616924302660&rtpof=true&sd=true)
